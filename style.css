@@ -1,0 +1,43 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+  
+    p{
+    color: white;
+}
+    body{
+    background-color:black;
+}
+    li{
+    color: white;
+}
+    h4{
+    color: DodgerBlue;
+}
+    h1{
+    color: tomato;
+}
+    h3{
+    color: DodgerBlue;
+}
+    h2{
+    color: white;
+}
+
+
+
+
+   
+
+
+
+
+
